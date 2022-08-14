@@ -30,13 +30,12 @@ p {
 }
 
 .links,
-.links ul,
-.links ul li {
+.links ol,
+.links ol li {
     padding-top: 7px;
     margin-right: 20px;
     float: right;
     font-size: 20px;
-    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 
